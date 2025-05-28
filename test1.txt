@@ -1,3 +1,4 @@
 project name is knowledgenest.
 we have used python language for this project.
-its a online course learning platform
+its a online course learning platform 
+Fahmida- Target Audience: The app is designed for a diverse audience, including students, professionals, and lifelong learners seeking to acquire new skills or enhance existing ones. Educators and experts looking for a platform to monetize their knowledge also form a key part of the user base.
