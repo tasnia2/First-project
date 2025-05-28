@@ -1,3 +1,7 @@
 project name is knowledgenest.
 we have used python language for this project.
 its a online course learning platform
+Faiza- Our innovative online course learning app KnowledgeNest is an easy-to-use online learning app 
+built with Java. It allows users to learn new skills, share knowledge, 
+and access a variety of educational courses. Both learners and instructors can use this platform
+to gain and provide knowledge.
