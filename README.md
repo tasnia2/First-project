@@ -30,7 +30,5 @@ The app is designed to help students access courses, watch video lectures, and t
 
 ## 📂 **Contents of This Repo**
 
-- **Project documentation**  
-- **Source code for the Android application**  
-- **Screenshots and design mockups** (if available)  
+- **Project documentation**   
 - **Notes on features and functionality**
