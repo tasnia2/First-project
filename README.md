@@ -14,7 +14,7 @@ The app is designed to help students access courses, watch video lectures, and t
 ## 👥 **Team Members**
 
 - **Tasnia**  
-- **Borsha**  
+- **Faiza**  
 - **Fahmida**
 
 ---
